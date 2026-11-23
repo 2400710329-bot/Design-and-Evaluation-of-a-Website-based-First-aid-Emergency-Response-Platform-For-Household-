@@ -1,0 +1,2 @@
+# Design-and-Evaluation-of-a-Website-based-First-aid-Emergency-Response-Platform-For-Household-
+  Emergencies don't wait, and neither should you. Our First Aid Emergency Response website gives you instant access to life-saving help when every second counts. Find clear, step-by-step guides for CPR, bleeding, burns, choking, fractures, seizures, and more, written in simple language anyone can follow. Request help fast, locate nearby hospital
