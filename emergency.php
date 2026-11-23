@@ -574,7 +574,7 @@ transition: 0.2s;
                         type="text"
                         name="location"
                         id="location"
-                        placeholder="Example: Kampala, Uganda"
+                        placeholder="Example: Gulu, Uganda"
                         required
                     >
 
